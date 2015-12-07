@@ -1,4 +1,4 @@
-# APIjet skeleton
+# APIJet skeleton
 
 #Introduction
 The purpose of this project is to show example usage of [APIJet/APIJet](https://github.com/APIJet/APIJet).
