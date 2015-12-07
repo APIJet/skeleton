@@ -3,7 +3,7 @@
 	"description": "Sample skeleton application of APIJet",
 	"license": "MIT",
 	"require": {
-	    "php": ">=5.4.0"
+	    "php": ">=5.4.0",
 	 	"api-jet/api-jet": "dev-master"
 	}
 }
