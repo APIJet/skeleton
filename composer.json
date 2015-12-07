@@ -1,10 +1,10 @@
 {
-    "name": "api-jet/skeleton",
-    "description": "Sample skeleton application of APIJet",
-    "license": "MIT",
-    "require": {
-        "php": ">=5.4.0"
-    },
+	"name": "api-jet/skeleton",
+	"description": "Sample skeleton application of APIJet",
+	"license": "MIT",
+	"require": {
+	    "php": ">=5.4.0"
+	},
 	"require": {
 	 	"api-jet/api-jet": "dev-master"
 	}
