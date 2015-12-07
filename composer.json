@@ -4,8 +4,6 @@
 	"license": "MIT",
 	"require": {
 	    "php": ">=5.4.0"
-	},
-	"require": {
 	 	"api-jet/api-jet": "dev-master"
 	}
 }
