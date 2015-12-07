@@ -1,0 +1,51 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "399c27d430280b3d1491861122b8a803",
+    "content-hash": "445bbe6abcbb8b14dd52f11c0db8ba43",
+    "packages": [
+        {
+            "name": "api-jet/api-jet",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/APIJet/APIJet.git",
+                "reference": "15cf11b06a171aa964042a73e0fec151c617192c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/APIJet/APIJet/zipball/15cf11b06a171aa964042a73e0fec151c617192c",
+                "reference": "15cf11b06a171aa964042a73e0fec151c617192c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-0": {
+                    "APIJet": "."
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "PHP Framework for RESTful API",
+            "time": "2015-12-06 21:39:59"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "stable",
+    "stability-flags": {
+        "api-jet/api-jet": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": [],
+    "platform-dev": []
+}
