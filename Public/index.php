@@ -20,4 +20,5 @@ $app = new APIJet([
     ]
 ]);
 
+$config->loadByJsonFile(ROOT_DIR.'config.json');
 $app->run();
