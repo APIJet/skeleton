@@ -3,7 +3,7 @@
 // set root dir
 define('ROOT_DIR', realpath('..'.DIRECTORY_SEPARATOR).DIRECTORY_SEPARATOR);
 
-// include autoload from compouser
+// include autoload from composer
 require ROOT_DIR.'/vendor/autoload.php';
 
 use APIJet\APIJet;
