@@ -1,6 +1,8 @@
 <?php 
 
-require "../vendor/autoload.php";
+define('ROOT_DIR', realpath('..'.DIRECTORY_SEPARATOR).DIRECTORY_SEPARATOR);
+
+require ROOT_DIR.'/vendor/autoload.php';
 
 use APIJet\APIJet;
 use APIJet\Router;
