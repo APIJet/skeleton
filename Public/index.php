@@ -4,7 +4,7 @@
 define('ROOT_DIR', realpath('..'.DIRECTORY_SEPARATOR).DIRECTORY_SEPARATOR);
 
 // include autoload from composer
-require ROOT_DIR.'/vendor/autoload.php';
+require ROOT_DIR.'vendor'.DIRECTORY_SEPARATOR.'autoload.php';
 
 use APIJet\APIJet;
 use APIJet\Router;
