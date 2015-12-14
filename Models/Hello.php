@@ -2,10 +2,10 @@
 
 namespace Models;
 
-class Hello
+class Hello extends Base
 {
-    public function getHelloMessage()
+    public function getHelloMessage($name)
     {
-        return "Hello, I am PHP RESTFul API";
+        return "Hello ".$name.", I am PHP RESTFul API";
     }
 }
