@@ -4,8 +4,8 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "399c27d430280b3d1491861122b8a803",
-    "content-hash": "445bbe6abcbb8b14dd52f11c0db8ba43",
+    "hash": "2a25c4cbbe9a8b93a4d075a114da3b01",
+    "content-hash": "db98215b1436a57ddeedc5df37485b35",
     "packages": [
         {
             "name": "api-jet/api-jet",
@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/APIJet/APIJet.git",
-                "reference": "15cf11b06a171aa964042a73e0fec151c617192c"
+                "reference": "d9c7722cf3fe6239613161af297ad8ecb4838608"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/APIJet/APIJet/zipball/15cf11b06a171aa964042a73e0fec151c617192c",
-                "reference": "15cf11b06a171aa964042a73e0fec151c617192c",
+                "url": "https://api.github.com/repos/APIJet/APIJet/zipball/d9c7722cf3fe6239613161af297ad8ecb4838608",
+                "reference": "d9c7722cf3fe6239613161af297ad8ecb4838608",
                 "shasum": ""
             },
             "require": {
@@ -35,7 +35,7 @@
                 "MIT"
             ],
             "description": "PHP Framework for RESTful API",
-            "time": "2015-12-06 21:39:59"
+            "time": "2015-12-19 08:49:34"
         }
     ],
     "packages-dev": [],
@@ -46,6 +46,8 @@
     },
     "prefer-stable": false,
     "prefer-lowest": false,
-    "platform": [],
+    "platform": {
+        "php": ">=5.4.0"
+    },
     "platform-dev": []
 }
