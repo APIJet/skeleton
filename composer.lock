@@ -13,12 +13,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/APIJet/APIJet.git",
-                "reference": "d9c7722cf3fe6239613161af297ad8ecb4838608"
+                "reference": "049ab128f31ad5585de72d283da184c7a3526321"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/APIJet/APIJet/zipball/d9c7722cf3fe6239613161af297ad8ecb4838608",
-                "reference": "d9c7722cf3fe6239613161af297ad8ecb4838608",
+                "url": "https://api.github.com/repos/APIJet/APIJet/zipball/049ab128f31ad5585de72d283da184c7a3526321",
+                "reference": "049ab128f31ad5585de72d283da184c7a3526321",
                 "shasum": ""
             },
             "require": {
@@ -35,7 +35,7 @@
                 "MIT"
             ],
             "description": "PHP Framework for RESTful API",
-            "time": "2015-12-19 08:49:34"
+            "time": "2015-12-27 20:33:24"
         }
     ],
     "packages-dev": [],
