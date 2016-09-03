@@ -62,5 +62,9 @@ $config->loadByJsonFile(ROOT_DIR.'config.json');
 // set all external singleton containers
 $app->setSingletonContainer('Db', new Helpers\Db($config->get('Db')));
 
+$app->setSingletonContainer('Db2', function() use ($config) {
+    return new Helpers\Db($config->get('Db'));
+});
+
 // run the application
 $app->run();
