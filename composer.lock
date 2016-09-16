@@ -4,7 +4,6 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
         "This file is @generated automatically"
     ],
-    "hash": "2a25c4cbbe9a8b93a4d075a114da3b01",
     "content-hash": "db98215b1436a57ddeedc5df37485b35",
     "packages": [
         {
@@ -13,12 +12,12 @@
             "source": {
                 "type": "git",
                 "url": "https://github.com/APIJet/APIJet.git",
-                "reference": "049ab128f31ad5585de72d283da184c7a3526321"
+                "reference": "644e033b083dc8aa4dea2864d7c5404acf41a1b5"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/APIJet/APIJet/zipball/049ab128f31ad5585de72d283da184c7a3526321",
-                "reference": "049ab128f31ad5585de72d283da184c7a3526321",
+                "url": "https://api.github.com/repos/APIJet/APIJet/zipball/644e033b083dc8aa4dea2864d7c5404acf41a1b5",
+                "reference": "644e033b083dc8aa4dea2864d7c5404acf41a1b5",
                 "shasum": ""
             },
             "require": {
@@ -35,7 +34,7 @@
                 "MIT"
             ],
             "description": "PHP Framework for RESTful API",
-            "time": "2015-12-27 20:33:24"
+            "time": "2016-09-03 11:42:00"
         }
     ],
     "packages-dev": [],
