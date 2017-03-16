@@ -54,7 +54,7 @@ $config->set([
 ]);
 
 // load config file from external file
-$config->loadByJsonFile(ROOT_DIR.'config.json');
+// $config->loadByJsonFile(ROOT_DIR.'config.json');
 
 // will create instance immediately 
 $app->setSingletonContainer('Db', new Helpers\Db($config->get('Db')));
